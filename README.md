@@ -1,1 +1,1 @@
-# my-first-project
+# hotel-system
